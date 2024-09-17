@@ -3,13 +3,13 @@ Apache JMeter es una herramienta de pruebas de software que permite realizar pru
 
 # Índice
 ## Requisitos previos
--Instalación
--Uso básico
--Ejemplos de pruebas
--Configuración avanzada
--Buenas prácticas
--Contribuir
--Licencia
+Instalación
+Uso básico
+Ejemplos de pruebas
+Configuración avanzada
+Buenas prácticas
+Contribuir
+Licencia
 
 ## Requisitos previos
 Java JDK (versión 8 o superior) instalado en tu sistema.
